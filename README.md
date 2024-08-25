@@ -1,2 +1,2 @@
 # kabuk
-KabuK Syle test
+KabuK Style test
